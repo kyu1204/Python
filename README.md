@@ -103,6 +103,8 @@ def myFunction(a, b=10):
 
 ```
 2. variable lifecycle
+3. named parameters
+4. index parameters
 # class
 ## basic class
 1. class
